@@ -22,7 +22,7 @@
     <a href="https://discord.gg/BcBMeVJJsd">💬 Discord</a>
     <br /><br />
    <a href="https://github.com/Flute-CMS/cms/releases">
-        <img src="https://img.shields.io/github/release/Flute-CMS/cms.svg" alt="Последний релиз" />
+        <img src="https://img.shields.io/github/release/Flute-CMS/cms.svg" alt="Latest release" /
     </a>
   &nbsp;
   <a href="https://discord.gg/BcBMeVJJsd"><img alt="Discord" src="https://img.shields.io/discord/869991184968323092?label=Discord&color=7289da&style=flat-square" /></a>
