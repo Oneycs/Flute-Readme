@@ -33,7 +33,7 @@
 <hr />
 
 <a href="https://demo.flute-cms.com">
-  <img src="https://github.com/Flute-CMS/cms/assets/62756604/81f45ad7-f065-4248-b946-94f01312a3cc" alt="Flute админ-панели"/>
+  <img src="https://github.com/Flute-CMS/cms/assets/62756604/f117eb2a-2ecb-45cd-b2b8-c54ac98897d7" alt="Flute dashboard"/>
 </a>
 <p align="center">
   👀 Пример админ-панели
