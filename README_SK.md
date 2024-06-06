@@ -46,7 +46,7 @@
 
 <hr />
 
-<h3>🚀 Advantages over existing solutions:</h3>
+<h3>🚀 Výhody oproti existujúcim riešeniam:</h3>
 <ul>
   <li>💯 Úplne zadarmo. Za inštaláciu Flute-u nemusíš nič platiť.</li>
   <li>🏠 Nezávislosť hostiteľa. Všetko beží na tvojom vlastnom serveri.</li>
@@ -131,6 +131,6 @@ Potrebuješ pomoc s inštaláciou, prispôsobením alebo vývojom? Pripoj sa na 
 
 &nbsp;
 
-# ⭐ Páči sa ti Flute? Dajte nám hviezdu!
+# ⭐ Páči sa ti Flute? Daj nám hviezdu!
 
 ![flute-gif](https://github.com/Flute-CMS/cms/assets/62756604/87d18227-41ac-4a7d-9210-d46b9fd56049)
