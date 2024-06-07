@@ -117,7 +117,7 @@ Objav našu ponuku bezplatných modulov pre Flute:
 - [Zákazy a Stlmenie](https://github.com/Flute-CMS/BansComms): Zobrazí zoznam zákazov a stlmení na samostatnej stránke
 - [Carousel](https://github.com/Flute-CMS/carousel): Pridá widget kolotoča
 - [Štatistiky](https://github.com/Flute-CMS/stats): Vytvorí samostatnú stránku so štatistikami
-- ...and more at our [repositories page](https://github.com/orgs/Flute-CMS/repositories).
+- ...a viac na našej [repositories stránke](https://github.com/orgs/Flute-CMS/repositories).
 
 Tieto moduly sú navrhnuté tak, aby rozšírili tvoje skúsenosti s Flute-om a sú k dispozícii bezplatne.
 
